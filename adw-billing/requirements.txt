@@ -1,0 +1,4 @@
+fdk
+oci
+pandas
+cx_Oracle
